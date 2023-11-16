@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+body {
+    overflow-x: hidden;
+    background: rgb(255, 255, 255);
+}
+/*Contenedor*/
+.contenedor{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #494B4D;
+}
+.cont-select{
+    margin: 30px auto;
+}
+.espe .cont{
+    margin: auto;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(166,203,255);   
+}
+.cont .titulo{
+    margin: 0px 30px;
+}
+.espe .doc{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(244,244,244);
+}
+.doc > p{
+    text-align: center;
+    font-size: 15px;
+}

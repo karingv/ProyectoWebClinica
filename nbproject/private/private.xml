@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Controlador/citaservlet.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Controlador/pacienteServlet.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/ModificarMedico.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/PaginaPrincipalLogueado.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/AgregarUsuario.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/CitaxMedico.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/VerDatosMedico.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/historialcitas.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/Cita.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/nosotros.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/modificar.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/ModeloCitaxMedico.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/PaginaPrincipalMed.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/ModeloMedico.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Controlador/ReservarCitaServlet.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/ListarUsuarios.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/reservarcita.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/reservarcita3.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/especialidad.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/historial.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/mantenimiento.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/contacto.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/registrar.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/VerMedicos.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/reservarcita2.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Controlador/mantenimientoServlet.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/ModeloPaciente.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/ReprogramarCitas.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/AgregarMedico.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/login.jsp</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Modelo/ModeloCita.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/src/java/Controlador/medicoServlet.java</file>
+            <file>file:/C:/Users/FLAVIO/OneDrive/Documentos/UTP/ciclo5/POO/Avances%20PF%20POO_GRUPO2/ProyectoWebClinicaLimatambo/ProyectoWebClinicaLimatambo/web/HistorialMedico.jsp</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+body {
+    overflow-x: hidden;
+    background: rgb(255, 255, 255);
+}
+/*Contenedor*/
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor > h1{
+    margin: 30px auto;
+    color: #494B4D;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 120px;
+}
+.contenedor .texto{
+    width: 70%;
+    max-width: 1200px;
+    margin: 15px auto;
+}
+.texto > h2{
+    margin: 15px auto;
+    text-align: left;
+    color: rgb(3, 64, 150);
+}
+.texto p{
+    color: #494B4D;
+    margin: 15px auto;
+    font-size: 15px;
+}
